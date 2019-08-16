@@ -24,7 +24,8 @@
   },
   "scripts": {
     "build": "fitbit-build",
-    "debug": "fitbit"
+    "debug": "fitbit",
+    "test": "jest"
   },
   "dependencies": {
     "eslint": "^6.1.0"
