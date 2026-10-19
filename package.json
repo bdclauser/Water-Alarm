@@ -5,7 +5,7 @@
   "license": "UNLICENSED",
   "devDependencies": {
     "@fitbit/sdk": "^4.3.0",
-    "@fitbit/sdk-cli": "^1.7.2",
+    "@fitbit/sdk-cli": "^1.7.3",
     "jest": "^24.9.0"
   },
   "fitbit": {
@@ -29,6 +29,6 @@
   },
   "dependencies": {
     "eslint": "^6.8.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.18.1"
   }
 }
